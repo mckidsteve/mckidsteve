@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mckidsteve
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning C++/python in wuhan univesity of techlonogy
-- 💞️ I’m looking to collaborate on study for ACM teammates
-- 📫 How to reach me qq734942701
+- a self-taught-CS programming lover
+- some repository not in here , usually in gitee,git.acwing, and other git web
+- if you want to reach me :
+      > QQnumber : 734942701
+      > email : mckidsteve@163.com / gmail.com / whut.edu.cn
+      > any chattools search my nickname:mckidsteve
 
 <!---
 mckidsteve/mckidsteve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
