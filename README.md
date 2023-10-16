@@ -3,7 +3,9 @@
 - if you want to reach me :
   
   > QQnumber : 734942701
+  
   > email : mckidsteve@163.com / gmail.com / whut.edu.cn
+  
   > any chattools search my nickname:mckidsteve
 
 <!---
